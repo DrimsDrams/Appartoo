@@ -1,0 +1,53 @@
+#logo 
+{
+	width: 15%;
+	height: auto;
+	float: left;
+	display: block;
+}
+
+#logo img
+{
+	width: 100%;
+	height: auto;
+	float: left;
+	display: block;
+}
+
+.image-grid2
+{
+	text-align: center;
+}
+
+.image-grid2 a 
+{
+   display: inline;
+   width: 25%;
+}
+.image-grid2 a  img
+{
+   display: inline;
+   width: 25%;
+}
+.add
+{
+	float:right;
+}
+
+.annulation
+{
+	float:right;
+	color:red;
+}
+
+.statut
+{
+	float:right;
+	color:red;
+}
+
+.delete
+{
+	float:right;
+	color:red;	
+}	

@@ -1,0 +1,33 @@
+.cadre {
+	padding: 16px;
+	background-image:url(images/Images/banner.jpg)
+}
+
+.spinName {
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: -40px;
+	padding: 10px;
+	font-size: 14px;
+	font-weight: 400;
+	color: rgba(255,255,255,.75);
+	-webkit-transition: all .3s ease-in-out;
+	transition: all .3s ease-in-out;
+}
+
+body, *html{height:100%;}
+body{
+	text-align:center;
+}
+
+#main{
+	margin:0 auto;
+	position:relative;
+}
+
+.style-footer{
+	position:absolute;
+	bottom:0;
+	width:100%;
+}
